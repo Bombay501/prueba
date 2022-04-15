@@ -1,0 +1,840 @@
+h1
+{
+	text-align:center;
+}
+
+
+p.parrafo
+{
+	text-align:center;
+	color:black; 
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:19px;
+	font-weight:bold;
+}		
+	
+
+p.parrafo_der
+
+{
+	text-align:right;
+	
+}	
+
+
+
+div.texto_derecha
+{
+	position:absolute;
+	top:54px;
+	right:6px;
+	width:577px;
+	height:628px;	
+
+}
+
+
+div.derecha_bajo
+
+{
+	position:absolute;
+	top:797px;
+	right:78px;
+	width:15%;
+	height:15%;
+}	
+
+div.izquierda_bajo
+{
+	position:absolute;
+	top:493px;
+	left:0px;
+	width:599px;
+	height:310px;	
+
+
+}
+
+div.imagen_bajo_derecha
+{
+	position:absolute;
+	top:800px;
+	right:296px;
+	width:104px;
+	height:15%;
+}	
+
+div.knacks
+{
+	position:absolute;
+	left:945px;
+	top:413px;
+	width:150px;
+	height:150px;
+
+}
+
+div.dog_video
+{
+position:absolute;
+	left:38px;
+	top:329px;
+	width:637px;
+	height:341px;
+}	
+
+div.gta_caratula
+{
+	position: absolute;
+	left: 978px;
+	top: 738px;
+	width: 127px;
+	height: 119px;
+}	
+
+
+
+div.fifa_caratula
+{
+position:absolute;
+	left:779px;
+	top:112px;
+	width:149px;
+	height:154px;
+}	
+
+div.nba_caratula
+{
+position:absolute;
+	left:601px;
+	top:63px;
+	width:149px;
+	height:154px;
+}	
+
+div.precio_nba
+{
+position:absolute;
+	left:781px;
+	top:77px;
+	width:123px;
+	height:25px;
+}	
+
+
+div.soporte
+{
+position:absolute;
+	left:5px;
+	top:227px;
+	width:1204px;
+	height:380px;
+}
+
+
+div.telefono
+{
+position:absolute;
+	left:6px;
+	top:749px;
+	width:280px;
+	height:55px;
+}
+
+
+
+div.correo
+{
+position:absolute;
+	left:842px;
+	top:27px;
+	width:359px;
+	height:34px;
+}
+
+div.pes_caratula
+
+{
+position:absolute;
+	left:466px;
+	top:111px;
+	width:139px;
+	height:154px;
+}
+
+div.precio_pes
+{
+position:absolute;
+	left:630px;
+	top:175px;
+	width:235px;
+	height:34px;
+}
+
+div.video_call
+{
+position:absolute;
+	left:2px;
+	top:331px;
+	width:540px;
+	height:263px;
+}
+
+
+div.killzone
+{
+position:absolute;
+	left:3px;
+	top:351px;
+	width:573px;
+	height:306px;
+}
+
+
+
+div.precio_killzone
+{
+position:absolute;
+	left:894px;
+	top:461px;
+	width:124px;
+	height:29px;
+}
+
+
+div.caratula_kill
+{
+position:absolute;
+	left:742px;
+	top:443px;
+	width:124px;
+	height:29px;
+}
+
+
+div.texto_bajo
+{
+position:absolute;
+	left:1px;
+	top:519px;
+	width:1151px;
+	height:179px;
+}
+
+div.video_batle
+{
+position:absolute;
+	left:6px;
+	top:115px;
+	width:630px;
+	height:350px;
+}
+
+div.caratula_batlefield4
+{
+position:absolute;
+	left:664px;
+	top:341px;
+	width:130px;
+	height:139px;
+}
+
+div.precio_batle
+{
+position:absolute;
+	left:845px;
+	top:403px;
+	width:153px;
+	height:27px;
+}
+
+div.ryse
+{
+	position: absolute;
+	left: 870px;
+	top: 517px;
+	width: 138px;
+	height: 143px;
+}
+
+div.dead
+{
+	position: absolute;
+	left: 676px;
+	top: 553px;
+	width: 138px;
+	height: 128px;
+}
+
+div.precio_dead
+
+{
+	position: absolute;
+	left: 841px;
+	top: 571px;
+	width: 144px;
+	height: 45px;
+}
+
+
+div.video_dead
+{
+	position: absolute;
+	left: 7px;
+	top: 413px;
+	width: 144px;
+	height: 272px;
+}
+
+div.division
+{
+	position: absolute;
+	left: 620px;
+	top: 406px;
+	width: 144px;
+	height: 110px;
+}
+
+div.precio_division
+{
+	position: absolute;
+	left: 661px;
+	top: 575px;
+	width: 144px;
+	height: 45px;
+}
+
+div.halo
+{
+	position: absolute;
+	left: 626px;
+	top: 506px;
+	width: 144px;
+	height: 110px;
+}
+
+div.precio_halo
+{
+	position: absolute;
+	left: 626px;
+	top: 664px;
+	width: 144px;
+	height: 39px;
+}
+
+
+div.video_halo
+{
+	position: absolute;
+	left: -2px;
+	top: 405px;
+	width: 144px;
+	height: 277px;
+}
+
+div.metal
+{
+	position: absolute;
+	left: 716px;
+	top: 455px;
+	width: 144px;
+	height: 110px;
+}
+
+div.precio_metal
+{
+	position: absolute;
+	left: 868px;
+	top: 487px;
+	width: 144px;
+	height: 47px;
+}
+
+
+
+div.video_thief
+{
+	position: absolute;
+	left: 1px;
+	top: 373px;
+	width: 144px;
+	height: 277px;
+}
+
+
+
+
+
+div.thief
+{
+	position: absolute;
+	left: 712px;
+	top: 395px;
+	width: 144px;
+	height: 110px;
+}
+
+div.precio_thief
+{
+	position: absolute;
+	left: 724px;
+	top: 555px;
+	width: 144px;
+	height: 46px;
+}
+
+div.darksoul
+{
+	position: absolute;
+	left: 609px;
+	top: 403px;
+	width: 144px;
+	height: 110px;
+}
+
+div.precio_dark
+{
+	position: absolute;
+	left: 764px;
+	top: 442px;
+	width: 144px;
+	height: 46px;
+}
+
+
+
+div.diablo3
+{
+	position: absolute;
+	left: 619px;
+	top: 517px;
+	width: 53px;
+	height: 110px;
+}
+
+div.precio_diablo
+
+{
+	position: absolute;
+	left: 736px;
+	top: 606px;
+	width: 144px;
+	height: 46px;
+}
+
+
+
+div.deadspace
+{
+	position: absolute;
+	left: 640px;
+	top: 326px;
+	width: 53px;
+	height: 110px;
+}
+
+
+div.space_precio
+
+{
+	position: absolute;
+	left: 819px;
+	top: 376px;
+	width: 144px;
+	height: 46px;
+}
+
+
+
+div.resident
+{
+	position: absolute;
+	left: 583px;
+	top: 429px;
+	width: 53px;
+	height: 110px;
+}
+
+div.precio_resident
+{
+	position: absolute;
+	left: 737px;
+	top: 449px;
+	width: 144px;
+	height: 46px;
+}
+
+
+
+div.skyrim
+{
+	position: absolute;
+	left: 606px;
+	top: 412px;
+	width: 53px;
+	height: 110px;
+}
+
+
+
+div.precio_skyrim
+{
+	position: absolute;
+	left: 615px;
+	top: 579px;
+	width: 144px;
+	height: 46px;
+}
+
+
+div.mordor
+{
+	position: absolute;
+	left: 786px;
+	top: 299px;
+	width: 53px;
+	height: 110px;
+}
+
+div.precio_mordor
+{
+	position: absolute;
+	left: 801px;
+	top: 451px;
+	width: 144px;
+	height: 46px;
+}
+
+
+div.mapa_andalucia
+{
+	position: absolute;
+	left: 257px;
+	top: 422px;
+	width: 53px;
+	height: 110px;
+}
+
+a.color
+{
+color:#3366FF;
+}
+
+a:visited
+{
+color:#FFFF00;
+}
+
+
+p.galeria
+
+{
+text-align:center;
+	color: #F1090D; 
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+a.color_enlace
+{
+	color:#D3D3D3;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+
+
+}
+
+
+
+
+
+	
+
+p.cine
+{
+	text-align:center;
+	color:#E6E6FA; 
+	font-family:"Courier New", Courier, monospace;
+	font-size:25px;
+	font-weight:bold;
+}		
+
+div.flecha_izquierda
+{
+	position: absolute;
+	left: 27px;
+	top: 777px;
+	width: 53px;
+	height: 110px;
+}
+
+
+div.flecha_derecha
+{
+	position: absolute;
+	left: 937px;
+	top: 781px;
+	width: 53px;
+	height: 110px;
+}
+
+div.flecha_izquierda_raider
+{
+	position: absolute;
+	left: 32px;
+	top: 819px;
+	width: 53px;
+	height: 110px;
+}
+
+div.flecha_derecha_raider
+{
+	position: absolute;
+	left: 988px;
+	top: 818px;
+	width: 53px;
+	height: 110px;
+}
+
+div.flecha_izquierda_gta
+{
+	position: absolute;
+	left: 27px;
+	top: 536px;
+	width: 53px;
+	height: 110px;
+}
+
+div.flecha_derecha_gta
+{
+	position: absolute;
+	left: 941px;
+	top: 545px;
+	width: 53px;
+	height: 110px;
+}
+
+div.flecha_izquierda_V
+{
+	position: absolute;
+	left: 12px;
+	top: 712px;
+	width: 53px;
+	height: 110px;
+}
+
+div.flecha_derecha_V
+{
+	position: absolute;
+	left: 923px;
+	top: 708px;
+	width: 53px;
+	height: 110px;
+}
+
+div.derecha_xbox
+
+{
+	position: absolute;
+	left: 870px;
+	top: 788px;
+	width: 53px;
+	height: 111px;
+}
+
+
+
+div.izquierda_xbox
+{
+	position: absolute;
+	left: 12px;
+	top: 791px;
+	width: 53px;
+	height: 110px;
+}
+
+div.derecha_halo
+
+{
+	position: absolute;
+	left: 122px;
+	top: 71px;
+	width: 53px;
+	height: 110px;
+}
+
+
+
+div.izquierda_halo
+{
+	position: absolute;
+	left: -579px;
+	top: 61px;
+	width: 53px;
+	height: 110px;
+}
+
+
+div.derecha_thief
+
+{
+	position: absolute;
+	left: 883px;
+	top: 556px;
+	width: 53px;
+	height: 110px;
+}
+
+
+
+div.izquierda_thief
+{
+	position: absolute;
+	left: 569px;
+	top: 553px;
+	width: 53px;
+	height: 110px;
+}
+
+div.derecha_division
+
+{
+	position: absolute;
+	left: 888px;
+	top: 636px;
+	width: 53px;
+	height: 110px;
+}
+
+
+
+div.izquierda_division
+{
+	position: absolute;
+	left: 593px;
+	top: 636px;
+	width: 153px;
+	height: 101px;
+}
+
+
+
+
+div.derecha_pc
+
+{
+	position: absolute;
+	left: 869px;
+	top: 561px;
+	width: 135px;
+	height: 115px;
+}
+
+
+
+div.izquierda_pc
+{
+	position: absolute;
+	left: 7px;
+	top: 566px;
+	width: 153px;
+	height: 101px;
+}
+
+
+div.derecha_dead
+
+{
+	position: absolute;
+	left: 892px;
+	top: 620px;
+	width: 135px;
+	height: 115px;
+}
+
+
+
+div.izquierda_dead
+{
+	position: absolute;
+	left: 7px;
+	top: 627px;
+	width: 153px;
+	height: 101px;
+}
+
+div.derecha_diablo
+
+{
+	position: absolute;
+	left: 878px;
+	top: 735px;
+	width: 135px;
+	height: 115px;
+}
+
+
+
+div.izquierda_diablo
+{
+	position: absolute;
+	left: 10px;
+	top: 731px;
+	width: 153px;
+	height: 101px;
+}
+
+div.derecha_r6
+
+{
+	position: absolute;
+	left: 76px;
+	top: 186px;
+	width: 135px;
+	height: 115px;
+}
+
+
+
+div.izquierda_r6
+{
+	position: absolute;
+	left: -729px;
+	top: 187px;
+	width: 153px;
+	height: 101px;
+}
+
+
+div.derecha_sky
+
+{
+	position: absolute;
+	left: 865px;
+	top: 688px;
+	width: 135px;
+	height: 115px;
+}
+
+
+
+div.izquierda_sky
+{
+	position: absolute;
+	left: 9px;
+	top: 689px;
+	width: 153px;
+	height: 101px;
+}
+
+
+div.icono
+{
+	position: absolute;
+	left: 1252px;
+	top: 4px;
+	width: 42px;
+	height: 49px;
+}
